@@ -1,1 +1,3 @@
 /KocuRR_PDB .kdbx
+/cache/*
+!/cache/.gitkeep
